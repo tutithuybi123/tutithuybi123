@@ -77,9 +77,6 @@ Hi, I'm **tutithuybi123**, a developer focused on building practical, well-desig
 
 | Project | Description | Tech | Links |
 | --- | --- | --- | --- |
-| **PROJECT_ONE_NAME** | A polished web application with clean UI, responsive layouts, and practical user flows. | `React` `TypeScript` `Tailwind` | [Demo](PROJECT_ONE_DEMO_URL) / [Source](PROJECT_ONE_REPO_URL) |
-| **PROJECT_TWO_NAME** | A backend-driven product with authentication, database workflows, and reliable API design. | `Node.js` `Express` `PostgreSQL` | [Demo](PROJECT_TWO_DEMO_URL) / [Source](PROJECT_TWO_REPO_URL) |
-| **PROJECT_THREE_NAME** | A focused tool that improves productivity through automation and thoughtful interactions. | `Python` `API` `Automation` | [Demo](PROJECT_THREE_DEMO_URL) / [Source](PROJECT_THREE_REPO_URL) |
 
 ---
 
