@@ -6,13 +6,13 @@
   <a href="https://github.com/tutithuybi123">
     <img src="https://img.shields.io/badge/GitHub-tutithuybi123-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
-  <a href="[LINKEDIN](http://www.linkedin.com/in/tutithuybi123)">
+  <a href="http://www.linkedin.com/in/tutithuybi123">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
   <a href="mailto:hoangtrongtu960@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hello-14b8a6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" />
   </a>
-  <a href="Nohello.com">
+  <a href="nohello.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website" />
   </a>
 </p>
