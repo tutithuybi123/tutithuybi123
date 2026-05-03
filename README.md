@@ -1,11 +1,10 @@
 <div align="center">
 
-<!-- Replace YOUR_NAME and YOUR_GITHUB_USERNAME with your real profile details. -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,50:2563eb,100:14b8a6&text=YOUR_NAME&fontColor=ffffff&fontSize=52&fontAlignY=37&desc=Full-stack%20Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=17" alt="Profile header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0f172a,50:2563eb,100:14b8a6&text=tutithuybi123&fontColor=ffffff&fontSize=52&fontAlignY=37&desc=Full-stack%20Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=17" alt="Profile header banner" />
 
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-YOUR_GITHUB_USERNAME-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  <a href="https://github.com/tutithuybi123">
+    <img src="https://img.shields.io/badge/GitHub-tutithuybi123-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
   <!-- Replace YOUR_LINKEDIN with your LinkedIn profile URL. -->
   <a href="YOUR_LINKEDIN">
@@ -30,7 +29,7 @@
 ## About Me
 
 <!-- Replace this section with your real bio. -->
-Hi, I'm **YOUR_NAME**, a developer focused on building practical, well-designed web applications. I enjoy turning complex requirements into simple interfaces, reliable systems, and products that feel good to use.
+Hi, I'm **tutithuybi123**, a developer focused on building practical, well-designed web applications. I enjoy turning complex requirements into simple interfaces, reliable systems, and products that feel good to use.
 
 - Currently working on: **modern web apps, APIs, and developer tools**
 - Learning more about: **system design, performance, and product engineering**
@@ -89,15 +88,14 @@ Hi, I'm **YOUR_NAME**, a developer focused on building practical, well-designed 
 
 ## GitHub Stats
 
-<!-- Replace YOUR_GITHUB_USERNAME in every image URL below. -->
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=14b8a6&text_color=e5e7eb" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e5e7eb" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tutithuybi123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=14b8a6&text_color=e5e7eb" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutithuybi123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e5e7eb" alt="Top languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=14B8A6&currStreakLabel=E5E7EB" alt="GitHub streak stats" />
+<img src="https://streak-stats.demolab.com?user=tutithuybi123&theme=tokyonight&hide_border=true&background=0F172A&ring=38BDF8&fire=14B8A6&currStreakLabel=E5E7EB" alt="GitHub streak stats" />
 
 </div>
 
@@ -107,8 +105,7 @@ Hi, I'm **YOUR_NAME**, a developer focused on building practical, well-designed 
 
 <div align="center">
 
-<!-- Replace YOUR_GITHUB_USERNAME to show your contribution graph. -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0f172a&color=e5e7eb&line=38bdf8&point=14b8a6" alt="GitHub activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tutithuybi123&theme=react-dark&hide_border=true&bg_color=0f172a&color=e5e7eb&line=38bdf8&point=14b8a6" alt="GitHub activity graph" />
 
 </div>
 
@@ -122,6 +119,6 @@ Hi, I'm **YOUR_NAME**, a developer focused on building practical, well-designed 
 <br />
 <br />
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS)
+![Profile views](https://komarev.com/ghpvc/?username=tutithuybi123&style=for-the-badge&color=38bdf8&label=PROFILE+VIEWS)
 
 </div>
