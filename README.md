@@ -6,16 +6,13 @@
   <a href="https://github.com/tutithuybi123">
     <img src="https://img.shields.io/badge/GitHub-tutithuybi123-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
-  <!-- Replace YOUR_LINKEDIN with your LinkedIn profile URL. -->
-  <a href="YOUR_LINKEDIN">
+  <a href="[LINKEDIN](http://www.linkedin.com/in/tutithuybi123)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
-  <!-- Replace YOUR_EMAIL with your email address. -->
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:hoangtrongtu960@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hello-14b8a6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" />
   </a>
-  <!-- Replace YOUR_PORTFOLIO_URL with your portfolio or personal site link. -->
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="Nohello.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website" />
   </a>
 </p>
