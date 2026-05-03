@@ -90,8 +90,8 @@ Hi, I'm **tutithuybi123**, a developer focused on building practical, well-desig
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tutithuybi123&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=14b8a6&text_color=e5e7eb" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutithuybi123&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e5e7eb" alt="Top languages" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tutithuybi123&theme=tokyonight" alt="GitHub stats" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tutithuybi123&theme=tokyonight" alt="Top languages" />
 
 <br />
 
