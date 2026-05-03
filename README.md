@@ -6,16 +6,13 @@
   <a href="https://github.com/tutithuybi123">
     <img src="https://img.shields.io/badge/GitHub-tutithuybi123-18181b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
   </a>
-  <!-- Replace YOUR_LINKEDIN with your LinkedIn profile URL. -->
-  <a href="YOUR_LINKEDIN">
+  <a href="http://www.linkedin.com/in/tutithuybi123">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
-  <!-- Replace YOUR_EMAIL with your email address. -->
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:hoangtrongtu960@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hello-14b8a6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" />
   </a>
-  <!-- Replace YOUR_PORTFOLIO_URL with your portfolio or personal site link. -->
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://www.nohello.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website" />
   </a>
 </p>
@@ -80,9 +77,6 @@ Hi, I'm **tutithuybi123**, a developer focused on building practical, well-desig
 
 | Project | Description | Tech | Links |
 | --- | --- | --- | --- |
-| **PROJECT_ONE_NAME** | A polished web application with clean UI, responsive layouts, and practical user flows. | `React` `TypeScript` `Tailwind` | [Demo](PROJECT_ONE_DEMO_URL) / [Source](PROJECT_ONE_REPO_URL) |
-| **PROJECT_TWO_NAME** | A backend-driven product with authentication, database workflows, and reliable API design. | `Node.js` `Express` `PostgreSQL` | [Demo](PROJECT_TWO_DEMO_URL) / [Source](PROJECT_TWO_REPO_URL) |
-| **PROJECT_THREE_NAME** | A focused tool that improves productivity through automation and thoughtful interactions. | `Python` `API` `Automation` | [Demo](PROJECT_THREE_DEMO_URL) / [Source](PROJECT_THREE_REPO_URL) |
 
 ---
 
